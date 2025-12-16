@@ -39,9 +39,9 @@ using consistent evaluation metrics.
 All output plots generated during individual experiments  
 (cumulative returns, drawdowns, strategy returns) are stored in:
 
-'''
+```
 results/plots/
-'''
+```
 
 
 These plots are produced directly by the corresponding experiment notebooks and are
