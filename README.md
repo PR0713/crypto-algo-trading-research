@@ -77,7 +77,7 @@ crypto-algo-trading-research/
 ## Strategy Overview
 
 ### Baseline Strategies
-Simple, interpretable strategies used as reference benchmarks.
+Simple, interpretable strategies used as reference benchmarks .
 
 - **BB + ATR** – Volatility-based mean reversion
 - **BB + RSI** – Momentum-filtered Bollinger strategy
