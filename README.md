@@ -164,3 +164,7 @@ pip install -r requirements.txt
 ## Contributors
 - Mandeep N H
 - Pranav Raghuram
+- Dharunpathi T
+- Varun P L
+- Manjunatha Sajjanar
+- Sanjaith G
