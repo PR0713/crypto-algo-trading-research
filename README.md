@@ -139,7 +139,6 @@ results/csv_outputs/
 ```
 
 
-These files are **not tracked** in version control and are treated as experiment artifacts.
 
 ---
 
@@ -161,3 +160,7 @@ These files are **not tracked** in version control and are treated as experiment
 pip install -r requirements.txt
 ```
 
+
+## Contributors
+- Mandeep N H
+- Pranav Raghuram
